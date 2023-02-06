@@ -1,0 +1,2 @@
+D:\DESPUES PASAR A LEO XD\quinto\arrayssssssss.cpp	In function 'int main()':
+20	28	D:\DESPUES PASAR A LEO XD\quinto\arrayssssssss.cpp	[Error] invalid operands of types 'float' and 'int' to binary 'operator%'
