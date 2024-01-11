@@ -1,0 +1,18 @@
+tamas de clase(albero)
+-lenguaje c (
+            -variables locales y gobales
+            -estructuras de iteracion (bucle for,while,do-while)
+            -estructuras de decicion (if-else,switch-case)
+            -array/vectores
+            -punteros/direccionamiento de memoria
+            -funciones (pasake x copi o valor x referencia)
+            )
+condiciones de aprobacion
+-entrega de TP-grupal (equipos de aea3) + defensa del trabajo presencial
+(todos los codigos del programa deben compilar y funcionar correctamente)
+EXTRA:
+los avances y desarrollo de los codigo de mpe durante las clases de los dias viernes contribuye a la nota del cuatri pero no es suficiente para aprobar la materia
+modalidad: lunes-teoria  viernes-practica
+software:
+-codeblocks, dev-c++, visual + compilador
+temas extra: P.O.O en c++
