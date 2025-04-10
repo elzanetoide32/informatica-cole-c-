@@ -1,2 +1,2 @@
-# informatica-cole-c-
-archivos trabajados en calse de informatica en el colegio
+# informatica-c/c++-
+archivos trabajados en calses
